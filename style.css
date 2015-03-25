@@ -1,0 +1,203 @@
+
+body
+{
+	font-family: Verdana, Geneva, sans-serif;
+	
+	background-color:white;
+}
+#page-container {
+	width: 800px;
+	
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+
+	
+}
+#header{  
+
+    height: 40px;
+	background-image:url('images/headerback.jpg');
+	background: repeat;
+		
+}
+
+
+#main-nav{
+	
+	width: 300px;
+	height: 190px;
+	float: left;
+	background-color:#900;
+	
+}
+#main_two{
+	height:140px;
+	width:500px;
+	background-color:#0CF;
+	float:right;
+	
+}
+main_three{
+	height:70px;
+	width:500px;
+	
+}
+
+	
+
+.nav{
+	color:white;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+}
+	
+#main-nav ul
+{
+      
+		padding: 5px;
+		
+		font-size: 10px;
+		font-family: verdana;
+		word-spacing: 10px;
+		padding-bottom: 8px;
+		
+		
+
+}
+#main-nav ul li
+{
+
+text-decoration: none;
+
+padding: 4px;
+
+
+}
+#main-nav ul li a
+{
+text-decoration: none ;
+padding: 5px;
+color: white;
+background-color:#999;
+border-bottom: 5px;
+
+
+}
+#main-nav ul li a:hover{
+
+color: white;
+background-color: black ;
+
+}
+
+ #space{
+	 height:10px;
+	 width:800px;
+ }
+
+
+#content{
+	width: 800px;
+	background-color: #FFFFFF;
+	height: auto;
+	margin: 0 auto;
+}
+#sidebar_right{
+height:460px;
+width:450px;
+background-color:white;
+float:right;
+
+}
+    #sidebar_right_a{
+		height:170px;
+        width:450px;
+      
+    
+     }
+   #sidebar_right_b{
+	   height:50px;
+        width:450px;
+      
+   
+    }
+	#sidebar_right_c{
+		height:170px;
+        width:450px;
+      
+   
+	}
+#sidebar_left{
+height:460px;
+width:300px;
+background-color:#999;
+
+
+}
+    #sidebar_left_a{
+		height:175px;
+		width:300px;
+		padding_left:10px;
+		
+    }
+	#sidebar_left_b{
+		height:175px;
+		width:300px;
+		padding_left:10px;
+		padding-top:5px;
+		
+	}
+	.redtitle{
+		color:#F00;
+		font-family:Verdana, Geneva, sans-serif;
+		font-size:14px;
+	}
+   .date{
+	   color:#F00;
+	   font-size:12px;
+		font-family:Verdana, Geneva, sans-serif;
+   }
+   .pargh{
+	   font-size:13px;
+	   font-family:Verdana, Geneva, sans-serif;
+   }
+	 .table_sidebar_left{
+		 padding-left:10px;
+	 }
+	 .big_titles{
+		 font-family:Verdana, Geneva, sans-serif;
+		 font-size:16px;
+	 }
+   .address{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+#sidebar_directions{
+	height:460px;
+	width:790px;
+	padding:10px;
+}
+#search{
+	height:60px;
+	width:80px;
+	float:right;
+}
+.direction{
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration:none;
+	text-align:center;
+	background-color:#999;
+	font-size:16px;
+}
+	   
+ #footer {
+	 
+height:40px;
+width:800;
+font-size:12px;
+font-family:Verdana, Geneva, sans-serif;
+border-top: 2px solid #000000;
+	}
